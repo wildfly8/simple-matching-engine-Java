@@ -1,0 +1,12 @@
+# Eclipse files
+.project
+.classpath
+.settings
+
+# IntelliJ IDEA
+.idea
+*.iml
+
+# Others
+.DS_Store
+__MACOSX
