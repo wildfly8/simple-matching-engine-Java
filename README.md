@@ -1,5 +1,3 @@
-# Take-home Exercise: Senior Exchange Software Engineer
-
 This exercise is designed to help us understand how you think and approach your work. While the code should work, we are mostly looking for testing, readability and code organization. Refer to the rubric for additional insights on the weight we’ll be assigning to each category. If you need to make an incomplete submission, we ask that you provide detailed descriptions of what you would have done given ample time.
 
 The focus of this exercise is the Matching Engine and the Order Book. We value your time, a simple console application should do for us to see how you structure your code and organize your classes in reusable components.
