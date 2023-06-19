@@ -1,12 +1,41 @@
-# Eclipse files
-.project
-.classpath
-.settings
-
-# IntelliJ IDEA
-.idea
+# IntelliJ IDEA files
+.idea/
 *.iml
+*.ipr
+*.iws
 
-# Others
-.DS_Store
-__MACOSX
+# Eclipse IDE files
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders/
+
+# External tool builders
+.externalToolBuilders/
+
+# Gradle files
+.gradle/
+build/
+
+# Spring Boot files
+*.log
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Other
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.bak
+*.tmp
